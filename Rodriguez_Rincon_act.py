@@ -1,3 +1,5 @@
+print("Hello")
+
 print("Hola bienvenidos este Programa de Menú Principal")
 print("Escoge una de nuestras siguientes opciones del Menú")
 
