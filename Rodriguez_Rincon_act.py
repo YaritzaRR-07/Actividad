@@ -12,7 +12,7 @@ while op != "4":
     print("1. Operaciones")
     print("2. Par o Impar")
     print("3. Saludo")
-    print("4. Salir")
+    print("4. Salir") 
 
     op = input("Opcion: ")
 
