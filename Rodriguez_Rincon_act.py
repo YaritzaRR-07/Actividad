@@ -1,4 +1,5 @@
 print("Hello")
+# Programa Principal de Menú de Opciones, Operaciones, Par o Impar, Saludo, Salir #
 
 print("Hola bienvenidos este Programa de Menú Principal")
 print("Escoge una de nuestras siguientes opciones del Menú")
